@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Soria</h1>
 <h3 align="center">I am a full stack developer from Argentina 🇦🇷</h3>
 
-- 📚 I am currently studying at ["Soy Henry" Bootcamp](https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gclid=CjwKCAjw77WVBhBuEiwAJ-YoJAQ8Qml2vyqfHfSi742pbrvmOqBPNI-VeVYw-znZXm5kYNqVCBraaRoCCtQQAvD_BwE)
-
-- 🌱 I’m currently learning **Frameworks, React, Redux, Node, Sql**
+- 🌱 I’m currently learning **Artificial intelligence, Web3, cybersecurity**
 
 - 👨‍💻 All of my projects are available at [http://josesoria.com.ar/](http://josesoria.com.ar/)
 
-- 💬 Ask me about **CSS,HTML,SASS,JAVASCRIPT**
+- 💬 Ask me about **React, Express, Mongodb, Javascript, Styles(sass,css,etc), **
 
 - 📫 How to reach me **josesoriap21@gmail.com**
 
